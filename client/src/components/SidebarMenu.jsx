@@ -86,7 +86,12 @@ export default function SidebarMenu({ isVisible, onClose }) {
           icon={<InfoCircleOutlined style={{ fontSize: '150%' }} />}
           className='menuItem'
         >
-          <Typography.Text className='sidebarText'>About</Typography.Text>
+          <Link
+            to={{ pathname: 'https://github.com/burkayanduv/fdd-app' }}
+            target='_blank'
+          >
+            <Typography.Text className='sidebarText'>About</Typography.Text>
+          </Link>
         </Menu.Item>
         <Menu.Item
           key='/contact'

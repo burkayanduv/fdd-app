@@ -96,7 +96,12 @@ export default function PageHeader({ showSidebar }) {
   const profileMenu = (
     <Menu className='avatarMenu'>
       <Menu.Item key='1' className='avatarMenuItem'>
-        <Button type='link'>Info</Button>
+        <Link
+          to={{ pathname: 'https://github.com/burkayanduv/fdd-app' }}
+          target='_blank'
+        >
+          <Button type='link'>Info</Button>
+        </Link>
         &nbsp;&nbsp;&nbsp;
         <InfoCircleOutlined style={{ color: '#E8B339' }} />
       </Menu.Item>
