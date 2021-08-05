@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1482px" height="840px" viewBox="-0.5 -0.5 1482 840">
+<defs>
+    <linearGradient id="gradient">
+        <stop offset="0" style="stop-color:#e8b339" />
+        <stop offset="0.5" style="stop-color:#e8b339" />
+        <stop offset="1" style="stop-color:#854eca" />
+    </linearGradient>
+    <radialGradient id="radial" fx="50%" fy="50%" cx="50%" cy="50%" r="80%" spreadMethod="pad">
+      <stop offset="40%"   stop-color="#e8b339" />
+      <stop offset="100%" stop-color="transparent" />
+    </radialGradient>
+    <radialGradient id="radial-2" fx="50%" fy="50%" cx="50%" cy="50%" r="80%" spreadMethod="pad">
+      <stop offset="40%"   stop-color="#854eca" />
+      <stop offset="100%" stop-color="transparent" />
+    </radialGradient>
+</defs>
+<style type="text/css">
+    .hoverWrapper {
+        pointer-events: auto;
+    }
+    .hoverWrapper:hover .svgGradient {
+        opacity: 1;
+        cursor: pointer;
+    }
+    .hoverWrapper:hover .svgStroke {
+        stroke: #e8b339
+    }
+    .hoverWrapper:active .svgGradient {
+        stroke: url(#radial-2);
+    }
+    .hoverWrapper:active .svgStroke {
+        stroke: #854eca;
+    }
+</style>
+<g>
+    <g id="click-Condenser" class="hoverWrapper">
+        <rect x="825" y="51" width="210" height="210" rx="31.5" ry="31.5" fill="none" stroke="url(#radial)" stroke-width="10" pointer-events="all" opacity="0" class="svgGradient"/>
+        <path d="M 930 231 L 890 231 Q 880 231 882.17 221.24 L 897.83 150.76 Q 900 141 910 141 L 950 141 Q 960 141 962.17 150.76 L 977.83 221.24 Q 980 231 970 231 Z" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" transform="rotate(-180,930,186)" pointer-events="none"/>
+        <path d="M 900 131 Q 910 121 900 106 Q 890 91 900 81" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 930 131 Q 940 121 930 106 Q 920 91 930 81" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 960 131 Q 970 121 960 106 Q 950 91 960 81" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="919.69" y="151" width="20" height="30" rx="3" ry="3" fill="none" stroke="#D2D2D2" stroke-width="4" pointer-events="none"/>
+        <rect x="893.06" y="170.31" width="10" height="50.56" rx="1.5" ry="1.5" fill="none" stroke="#D2D2D2" stroke-width="4" transform="rotate(347,898.06,195.59)" pointer-events="none"/>
+        <rect x="957" y="170.31" width="10" height="50.56" rx="1.5" ry="1.5" fill="none" stroke="#D2D2D2" stroke-width="4" transform="rotate(13,962,195.59)" pointer-events="none"/>
+        <path d="M 919.69 158.5 L 905 158.8 Q 895 159 895 155 L 895 153 Q 895 151 905 151 L 924.69 151" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 939.69 158.5 L 955 158.8 Q 965 159 965 155 L 965 153 Q 965 151 955 151 L 934.69 151" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="830" y="56" width="200" height="200" rx="30" ry="30" fill="none" stroke="#D2D2D2" stroke-width="4" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 178px; height: 1px; padding-top: 26px; margin-left: 841px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <b style="font-size: 24px">Condenser
+            </b>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="930" y="30" fill="#D2D2D2" font-family="Segoe UI" font-size="12px" text-anchor="middle">Condenser
+            </text>
+            </switch>
+        </g>
+        <path d="M 689.69 371 L 674.69 371 Q 664.69 371 669.16 362.06 L 671.93 356.53 Q 674.69 351 684.69 351 L 694.69 351 Q 704.69 351 709.16 359.94 L 711.93 365.47 Q 714.69 371 704.69 371 Z" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" transform="rotate(-180,689.69,361)" pointer-events="none"/>
+        <rect x="679.69" y="371" width="20" height="50" fill="none" stroke="#D2D2D2" stroke-width="4" pointer-events="none"/>
+        <path d="M 724.81 403 L 715.12 403 Q 705.43 403 710.74 395.5 L 713.4 391.75 Q 716.05 388 724.81 388 L 729.18 388 Q 733.56 388 738.87 395.5 L 741.53 399.25 Q 744.18 403 734.49 403 Z" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" transform="rotate(-90,724.81,395.5)" pointer-events="none"/>
+        <path d="M 662.19 394 L 656.1 394 Q 650 394 654.22 386.5 L 656.32 382.75 Q 658.43 379 662.19 379 L 664.07 379 Q 665.95 379 670.16 386.5 L 672.27 390.25 Q 674.38 394 668.28 394 Z" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" transform="rotate(90,662.19,386.5)" pointer-events="none"/>
+        <path d="M 667.99 381.79 L 679.99 381.4" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 667.99 391.21 L 678.85 391.4" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 718.43 391 L 700.61 391.35" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 718.43 401 L 700 401" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 689.69 441 L 682.19 441 Q 674.69 441 679.16 432.06 L 681.93 426.53 Q 684.69 421 689.69 421 L 692.19 421 Q 694.69 421 699.16 429.94 L 701.93 435.47 Q 704.69 441 697.19 441 Z" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" transform="rotate(-180,689.69,431)" pointer-events="none"/>
+        <path d="M 410 296 L 410 166 Q 410 156 420 156 L 455 156" fill="none" stroke="#D2D2D2" stroke-width="8" stroke-miterlimit="10" stroke-dasharray="24 24" pointer-events="none"/>
+        <path d="M 689.69 351 L 689.98 166 Q 690 156 680 156 L 655 156" fill="none" stroke="#D2D2D2" stroke-width="8" stroke-miterlimit="10" stroke-dasharray="24 24" pointer-events="none"/>
+        <path d="M 789.69 371 L 774.69 371 Q 764.69 371 769.16 362.06 L 771.93 356.53 Q 774.69 351 784.69 351 L 794.69 351 Q 804.69 351 809.16 359.94 L 811.93 365.47 Q 814.69 371 804.69 371 Z" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" transform="rotate(-180,789.69,361)" pointer-events="none"/>
+        <rect x="779.69" y="371" width="20" height="50" fill="none" stroke="#D2D2D2" stroke-width="4" pointer-events="none"/>
+        <path d="M 824.81 403 L 815.12 403 Q 805.43 403 810.74 395.5 L 813.4 391.75 Q 816.05 388 824.81 388 L 829.18 388 Q 833.56 388 838.87 395.5 L 841.53 399.25 Q 844.18 403 834.49 403 Z" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" transform="rotate(-90,824.81,395.5)" pointer-events="none"/>
+        <path d="M 762.19 394 L 756.1 394 Q 750 394 754.22 386.5 L 756.32 382.75 Q 758.43 379 762.19 379 L 764.07 379 Q 765.95 379 770.16 386.5 L 772.27 390.25 Q 774.38 394 768.28 394 Z" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" transform="rotate(90,762.19,386.5)" pointer-events="none"/>
+        <path d="M 767.99 381.79 L 779.99 381.4" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 767.99 391.21 L 778.85 391.4" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 818.43 391 L 800.61 391.35" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 818.43 401 L 800 401" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 789.69 441 L 782.19 441 Q 774.69 441 779.16 432.06 L 781.93 426.53 Q 784.69 421 789.69 421 L 792.19 421 Q 794.69 421 799.16 429.94 L 801.93 435.47 Q 804.69 441 797.19 441 Z" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" transform="rotate(-180,789.69,431)" pointer-events="none"/>
+        <path d="M 690 536 L 690 531 Q 690 526 689.96 516 L 689.69 441" fill="none" stroke="#D2D2D2" stroke-width="8" stroke-miterlimit="10" stroke-dasharray="24 24" pointer-events="none"/>
+        <path d="M 790 536 L 789.69 441" fill="none" stroke="#D2D2D2" stroke-width="8" stroke-miterlimit="10" stroke-dasharray="24 24" pointer-events="none"/>
+        <path d="M 789.69 351 L 789.98 166 Q 790 156 800 156 L 830 156" fill="none" stroke="#D2D2D2" stroke-width="8" stroke-miterlimit="10" stroke-dasharray="24 24" pointer-events="none"/>
+        <path d="M 640 636 L 420 636 Q 410 636 410 626 L 410 496" fill="none" stroke="#D2D2D2" stroke-width="8" stroke-miterlimit="10" stroke-dasharray="24 24" pointer-events="none"/>
+        <path d="M 1070 296 L 1070 166 Q 1070 156 1060 156 L 1030 156" fill="none" stroke="#D2D2D2" stroke-width="8" stroke-miterlimit="10" stroke-dasharray="24 24" pointer-events="none"/>
+        <path d="M 840 636 L 1060 636 Q 1070 636 1070 626 L 1070 496" fill="none" stroke="#D2D2D2" stroke-width="8" stroke-miterlimit="10" stroke-dasharray="24 24" pointer-events="none"/>
+        <rect x="450" y="51" width="210" height="210" rx="31.5" ry="31.5" fill="none" stroke="url(#radial)" stroke-width="10" pointer-events="all" opacity="0" class="svgGradient"/>
+        <path d="M 555 231 L 515 231 Q 505 231 507.17 221.24 L 522.83 150.76 Q 525 141 535 141 L 575 141 Q 585 141 587.17 150.76 L 602.83 221.24 Q 605 231 595 231 Z" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" transform="rotate(-180,555,186)" pointer-events="none"/>
+        <path d="M 525 131 Q 535 121 525 106 Q 515 91 525 81" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 555 131 Q 565 121 555 106 Q 545 91 555 81" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 585 131 Q 595 121 585 106 Q 575 91 585 81" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="544.69" y="151" width="20" height="30" rx="3" ry="3" fill="none" stroke="#D2D2D2" stroke-width="4" pointer-events="none"/>
+        <rect x="518.06" y="170.31" width="10" height="50.56" rx="1.5" ry="1.5" fill="none" stroke="#D2D2D2" stroke-width="4" transform="rotate(347,523.06,195.59)" pointer-events="none"/>
+        <rect x="582" y="170.31" width="10" height="50.56" rx="1.5" ry="1.5" fill="none" stroke="#D2D2D2" stroke-width="4" transform="rotate(13,587,195.59)" pointer-events="none"/>
+        <path d="M 544.69 158.5 L 530 158.8 Q 520 159 520 155 L 520 153 Q 520 151 530 151 L 549.69 151" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 564.69 158.5 L 580 158.8 Q 590 159 590 155 L 590 153 Q 590 151 580 151 L 559.69 151" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="455" y="56" width="200" height="200" rx="30" ry="30" fill="none" stroke="#D2D2D2" stroke-width="4" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 178px; height: 1px; padding-top: 26px; margin-left: 466px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <b style="font-size: 24px">Condenser
+            </b>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="555" y="30" fill="#D2D2D2" font-family="Segoe UI" font-size="12px" text-anchor="middle">Condenser
+            </text>
+            </switch>
+        </g>
+    </g>
+    <g id="click-cond_SatRfgtTemp" class="hoverWrapper">
+        <rect x="110" y="66.5" width="285" height="39" rx="5.85" ry="5.85" fill="none" stroke="url(#radial)" stroke-width="4" pointer-events="all" opacity="0" class="svgGradient"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 86px; margin-left: 115px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <span style="text-align: center">
+            <font style="font-size: 22px">SatRfgtTemp:
+            </font>
+            </span>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="115" y="90" fill="#D2D2D2" font-family="Segoe UI" font-size="12px">SatRfgtTemp:
+            </text>
+            </switch>
+        </g>
+        <rect x="293" y="68.5" width="100" height="35" rx="5.25" ry="5.25" fill="none" stroke="#e8b339" stroke-width="2" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 86px; margin-left: 294px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font id="svg-cond_SatRfgtTemp" style="font-size: 22px">...
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text id="svg-cond_SatRfgtTemp-2" x="343" y="90" fill="#D2D2D2" font-family="Segoe UI" font-size="12px" text-anchor="middle">...
+            </text>
+            </switch>
+        </g>
+    </g>
+    <g id="click-cond_DischSatTemp" class="hoverWrapper">
+        <rect x="110" y="111.5" width="285" height="39" rx="5.85" ry="5.85" fill="none" stroke="url(#radial)" stroke-width="4" pointer-events="all" opacity="0" class="svgGradient"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 131px; margin-left: 115px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font style="font-size: 22px">DischSatTemp:
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="115" y="135" fill="#D2D2D2" font-family="Segoe UI" font-size="12px">DischSatTemp:
+            </text>
+            </switch>
+        </g>
+        <rect x="293" y="113.5" width="100" height="35" rx="5.25" ry="5.25" fill="none" stroke="#e8b339" stroke-width="2" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 131px; margin-left: 294px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font id="svg-cond_DischSatTemp" style="font-size: 22px">...
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text id="svg-cond_DischSatTemp-2" x="343" y="135" fill="#D2D2D2" font-family="Segoe UI" font-size="12px" text-anchor="middle">...
+            </text>
+            </switch>
+        </g>
+    </g>
+    <g id="click-cond_DischSubc" class="hoverWrapper">
+        <rect x="110" y="156.5" width="285" height="39" rx="5.85" ry="5.85" fill="none" stroke="url(#radial)" stroke-width="4" pointer-events="all" opacity="0" class="svgGradient"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 176px; margin-left: 115px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font style="font-size: 22px">DischSubc:
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="115" y="180" fill="#D2D2D2" font-family="Segoe UI" font-size="12px">DischSubc:
+            </text>
+            </switch>
+        </g>
+        <rect x="293" y="158.5" width="100" height="35" rx="5.25" ry="5.25" fill="none" stroke="#e8b339" stroke-width="2" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 176px; margin-left: 294px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font id="svg-cond_DischSubc" style="font-size: 22px">...
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text id="svg-cond_DischSubc-2" x="343" y="180" fill="#D2D2D2" font-family="Segoe UI" font-size="12px" text-anchor="middle">...
+            </text>
+            </switch>
+        </g>
+    </g>
+    <g id="click-cond_RfgtPress" class="hoverWrapper">
+        <rect x="110" y="201.5" width="285" height="39" rx="5.85" ry="5.85" fill="none" stroke="url(#radial)" stroke-width="4" pointer-events="all" opacity="0" class="svgGradient"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 221px; margin-left: 115px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font style="font-size: 22px">RfgtPress:
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="115" y="225" fill="#D2D2D2" font-family="Segoe UI" font-size="12px">RfgtPress:
+            </text>
+            </switch>
+        </g>
+        <rect x="293" y="203.5" width="100" height="35" rx="5.25" ry="5.25" fill="none" stroke="#e8b339" stroke-width="2" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 221px; margin-left: 294px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font id="svg-cond_RfgtPress" style="font-size: 22px">...
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text id="svg-cond_RfgtPress-2" x="343" y="225" fill="#D2D2D2" font-family="Segoe UI" font-size="12px" text-anchor="middle">...
+            </text>
+            </switch>
+        </g>
+    </g>
+    <g id="click-cond_SubcLiqTemp" class="hoverWrapper">
+        <rect x="1085" y="111.5" width="285" height="39" rx="5.85" ry="5.85" fill="none" stroke="url(#radial)" stroke-width="4" pointer-events="all" opacity="0" class="svgGradient"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 131px; margin-left: 1090px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font style="font-size: 22px">SubcLiqTemp:
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="1090" y="135" fill="#D2D2D2" font-family="Segoe UI" font-size="12px">SubcLiqTemp:
+            </text>
+            </switch>
+        </g>
+        <rect x="1268" y="113.5" width="100" height="35" rx="5.25" ry="5.25" fill="none" stroke="#e8b339" stroke-width="2" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 131px; margin-left: 1269px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font id="svg-cond_SubcLiqTemp" style="font-size: 22px">...
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text id="svg-cond_SubcLiqTemp-2" x="1318" y="135" fill="#D2D2D2" font-family="Segoe UI" font-size="12px" text-anchor="middle">...
+            </text>
+            </switch>
+        </g>
+    </g>
+    <g id="click-cond_DiffRfgtPress" class="hoverWrapper">
+        <rect x="1085" y="66.5" width="285" height="39" rx="5.85" ry="5.85" fill="none" stroke="url(#radial)" stroke-width="4" pointer-events="all" opacity="0" class="svgGradient"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 86px; margin-left: 1090px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <span style="font-size: 22px">DiffRfgtPress:
+            </span>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="1090" y="90" fill="#D2D2D2" font-family="Segoe UI" font-size="12px">DiffRfgtPress:
+            </text>
+            </switch>
+        </g>
+        <rect x="1268" y="68.5" width="100" height="35" rx="5.25" ry="5.25" fill="none" stroke="#e8b339" stroke-width="2" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 86px; margin-left: 1269px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font id="svg-cond_DiffRfgtPress" style="font-size: 22px">...
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text id="svg-cond_DiffRfgtPress-2" x="1318" y="90" fill="#D2D2D2" font-family="Segoe UI" font-size="12px" text-anchor="middle">...
+            </text>
+            </switch>
+        </g>
+    </g>
+    <g id="click-cond_SubcLiqPress" class="hoverWrapper">
+        <rect x="1085" y="156.5" width="285" height="39" rx="5.85" ry="5.85" fill="none" stroke="url(#radial)" stroke-width="4" pointer-events="all" opacity="0" class="svgGradient"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 176px; margin-left: 1090px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font style="font-size: 22px">SubcLiqPress:
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="1090" y="180" fill="#D2D2D2" font-family="Segoe UI" font-size="12px">SubcLiqPress:
+            </text>
+            </switch>
+        </g>
+        <rect x="1268" y="158.5" width="100" height="35" rx="5.25" ry="5.25" fill="none" stroke="#e8b339" stroke-width="2" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 176px; margin-left: 1269px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font id="svg-cond_SubcLiqPress" style="font-size: 22px">...
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text id="svg-cond_SubcLiqPress-2" x="1318" y="180" fill="#D2D2D2" font-family="Segoe UI" font-size="12px" text-anchor="middle">...
+            </text>
+            </switch>
+        </g>
+    </g>
+    <g id="click-cond_FanDischTemp" class="hoverWrapper">
+        <rect x="1085" y="201.5" width="285" height="39" rx="5.85" ry="5.85" fill="none" stroke="url(#radial)" stroke-width="4" pointer-events="all" opacity="0" class="svgGradient"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 221px; margin-left: 1090px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <span style="font-size: 22px">FanDischTemp:
+            </span>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="1090" y="225" fill="#D2D2D2" font-family="Segoe UI" font-size="12px">FanDischTemp:
+            </text>
+            </switch>
+        </g>
+        <rect x="1268" y="203.5" width="100" height="35" rx="5.25" ry="5.25" fill="none" stroke="#e8b339" stroke-width="2" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 221px; margin-left: 1269px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font id="svg-cond_FanDischTemp" style="font-size: 22px">...
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text id="svg-cond_FanDischTemp-2" x="1318" y="225" fill="#D2D2D2" font-family="Segoe UI" font-size="12px" text-anchor="middle">...
+            </text>
+            </switch>
+        </g>
+    </g>
+    <g id="click-Compressor" class="hoverWrapper">
+        <rect x="305" y="291" width="210" height="210" rx="31.5" ry="31.5" fill="none" stroke="url(#radial)" stroke-width="10" pointer-events="all" opacity="0" class="svgGradient"/>
+        <ellipse cx="385" cy="433.5" rx="15" ry="15" fill="none" stroke="#D2D2D2" stroke-width="4" pointer-events="none"/>
+        <path d="M 400 433.5 Q 450 433.5 460 433.5 Q 470 433.5 475 418.5 Q 480 403.5 475 388.5 Q 470 373.5 460 373.5 Q 450 373.5 410 373.5 Q 370 373.5 360 373.5 Q 350 373.5 345 388.5 Q 340 403.5 345 418.5 Q 350 433.5 370 433.5" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="385" y="363.5" width="20" height="10" fill="none" stroke="#D2D2D2" stroke-width="4" pointer-events="none"/>
+        <rect x="380" y="343.5" width="30" height="20" rx="3" ry="3" fill="none" stroke="#D2D2D2" stroke-width="4" pointer-events="none"/>
+        <path d="M 380 353.17 L 400 353.5" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 440 373.5 L 440 363.5" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <ellipse cx="440" cy="353.5" rx="10" ry="10" fill="none" stroke="#D2D2D2" stroke-width="4" pointer-events="none"/>
+        <path d="M 450 433.5 L 450 443.5 L 440 443.5 L 430 433.5" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 447.07 346.43 L 440 353.17" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <ellipse cx="385" cy="433.5" rx="3.75" ry="3.75" fill="none" stroke="#D2D2D2" stroke-width="4" pointer-events="none"/>
+        <rect x="310" y="296" width="200" height="200" rx="30" ry="30" fill="none" stroke="#D2D2D2" stroke-width="4" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-end; width: 178px; height: 1px; padding-top: 396px; margin-left: 107px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: right; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <b style="font-size: 24px">Compressor
+            </b>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="285" y="400" fill="#D2D2D2" font-family="Segoe UI" font-size="12px" text-anchor="end">Compressor
+            </text>
+            </switch>
+        </g>
+        <rect x="965" y="291" width="210" height="210" rx="31.5" ry="31.5" fill="none" stroke="url(#radial)" stroke-width="10" pointer-events="all" opacity="0" class="svgGradient"/>
+        <ellipse cx="1045" cy="433.5" rx="15" ry="15" fill="none" stroke="#D2D2D2" stroke-width="4" pointer-events="none"/>
+        <path d="M 1060 433.5 Q 1110 433.5 1120 433.5 Q 1130 433.5 1135 418.5 Q 1140 403.5 1135 388.5 Q 1130 373.5 1120 373.5 Q 1110 373.5 1070 373.5 Q 1030 373.5 1020 373.5 Q 1010 373.5 1005 388.5 Q 1000 403.5 1005 418.5 Q 1010 433.5 1030 433.5" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1045" y="363.5" width="20" height="10" fill="none" stroke="#D2D2D2" stroke-width="4" pointer-events="none"/>
+        <rect x="1040" y="343.5" width="30" height="20" rx="3" ry="3" fill="none" stroke="#D2D2D2" stroke-width="4" pointer-events="none"/>
+        <path d="M 1040 353.17 L 1060 353.5" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1100 373.5 L 1100 363.5" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <ellipse cx="1100" cy="353.5" rx="10" ry="10" fill="none" stroke="#D2D2D2" stroke-width="4" pointer-events="none"/>
+        <path d="M 1110 433.5 L 1110 443.5 L 1100 443.5 L 1090 433.5" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1107.07 346.43 L 1100 353.17" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <ellipse cx="1045" cy="433.5" rx="3.75" ry="3.75" fill="none" stroke="#D2D2D2" stroke-width="4" pointer-events="none"/>
+        <rect x="970" y="296" width="200" height="200" rx="30" ry="30" fill="none" stroke="#D2D2D2" stroke-width="4" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 396px; margin-left: 1192px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <b style="font-size: 24px">Compressor
+            </b>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="1192" y="400" fill="#D2D2D2" font-family="Segoe UI" font-size="12px">Compressor
+            </text>
+            </switch>
+        </g>
+    </g>
+    <g id="click-comp_SuctPress" class="hoverWrapper">
+        <rect x="7" y="436.5" width="285" height="39" rx="5.85" ry="5.85" fill="none" stroke="url(#radial)" stroke-width="4" pointer-events="all" opacity="0" class="svgGradient"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 456px; margin-left: 12px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font style="font-size: 22px">SuctPress:
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="12" y="460" fill="#D2D2D2" font-family="Segoe UI" font-size="12px">SuctPress:
+            </text>
+            </switch>
+        </g>
+        <rect x="190" y="438.5" width="100" height="35" rx="5.25" ry="5.25" fill="none" stroke="#e8b339" stroke-width="2" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 456px; margin-left: 191px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font id="svg-comp_SuctPress" style="font-size: 22px">...
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text id="svg-comp_SuctPress-2" x="240" y="460" fill="#D2D2D2" font-family="Segoe UI" font-size="12px" text-anchor="middle">...
+            </text>
+            </switch>
+        </g>
+    </g>
+    <g id="click-comp_DiffPress" class="hoverWrapper">
+        <rect x="7" y="481.5" width="285" height="39" rx="5.85" ry="5.85" fill="none" stroke="url(#radial)" stroke-width="4" pointer-events="all" opacity="0" class="svgGradient"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 501px; margin-left: 12px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font style="font-size: 22px">DiffPress:
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="12" y="505" fill="#D2D2D2" font-family="Segoe UI" font-size="12px">DiffPress:
+            </text>
+            </switch>
+        </g>
+        <rect x="190" y="483.5" width="100" height="35" rx="5.25" ry="5.25" fill="none" stroke="#e8b339" stroke-width="2" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 501px; margin-left: 191px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font id="svg-comp_DiffPress" style="font-size: 22px">...
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text id="svg-comp_DiffPress-2" x="240" y="505" fill="#D2D2D2" font-family="Segoe UI" font-size="12px" text-anchor="middle">...
+            </text>
+            </switch>
+        </g>
+    </g>
+    <g id="click-comp_MassFlow" class="hoverWrapper">
+        <rect x="7" y="526.5" width="285" height="39" rx="5.85" ry="5.85" fill="none" stroke="url(#radial)" stroke-width="4" pointer-events="all" opacity="0" class="svgGradient"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 546px; margin-left: 12px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font style="font-size: 22px">MassFlow:
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="12" y="550" fill="#D2D2D2" font-family="Segoe UI" font-size="12px">MassFlow:
+            </text>
+            </switch>
+        </g>
+        <rect x="190" y="528.5" width="100" height="35" rx="5.25" ry="5.25" fill="none" stroke="#e8b339" stroke-width="2" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 546px; margin-left: 191px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font id="svg-comp_MassFlow" style="font-size: 22px">...
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text id="svg-comp_MassFlow-2" x="240" y="550" fill="#D2D2D2" font-family="Segoe UI" font-size="12px" text-anchor="middle">...
+            </text>
+            </switch>
+        </g>
+    </g>
+    <g id="click-comp_DischTemp" class="hoverWrapper">
+        <rect x="1190" y="436.5" width="285" height="39" rx="5.85" ry="5.85" fill="none" stroke="url(#radial)" stroke-width="4" pointer-events="all" opacity="0" class="svgGradient"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 456px; margin-left: 1195px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <span style="font-size: 22px">DischTemp:
+            </span>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="1195" y="460" fill="#D2D2D2" font-family="Segoe UI" font-size="12px">DischTemp:
+            </text>
+            </switch>
+        </g>
+        <rect x="1373" y="438.5" width="100" height="35" rx="5.25" ry="5.25" fill="none" stroke="#e8b339" stroke-width="2" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 456px; margin-left: 1374px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font id="svg-comp_DischTemp" style="font-size: 22px">...
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text id="svg-comp_DischTemp-2" x="1423" y="460" fill="#D2D2D2" font-family="Segoe UI" font-size="12px" text-anchor="middle">...
+            </text>
+            </switch>
+        </g>
+    </g>
+    <g id="click-comp_DischSupe" class="hoverWrapper">
+        <rect x="1190" y="481.5" width="285" height="39" rx="5.85" ry="5.85" fill="none" stroke="url(#radial)" stroke-width="4" pointer-events="all" opacity="0" class="svgGradient"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 501px; margin-left: 1195px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font style="font-size: 22px">DischSupe:
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="1195" y="505" fill="#D2D2D2" font-family="Segoe UI" font-size="12px">DischSupe:
+            </text>
+            </switch>
+        </g>
+        <rect x="1373" y="483.5" width="100" height="35" rx="5.25" ry="5.25" fill="none" stroke="#e8b339" stroke-width="2" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 501px; margin-left: 1374px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font id="svg-comp_DischSupe" style="font-size: 22px">...
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text id="svg-comp_DischSupe-2" x="1423" y="505" fill="#D2D2D2" font-family="Segoe UI" font-size="12px" text-anchor="middle">...
+            </text>
+            </switch>
+        </g>
+    </g>
+    <g id="click-comp_CompCurrent" class="hoverWrapper">
+        <rect x="1190" y="526.5" width="285" height="39" rx="5.85" ry="5.85" fill="none" stroke="url(#radial)" stroke-width="4" pointer-events="all" opacity="0" class="svgGradient"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 546px; margin-left: 1195px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font style="font-size: 22px">CompCurrent:
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="1195" y="550" fill="#D2D2D2" font-family="Segoe UI" font-size="12px">CompCurrent:
+            </text>
+            </switch>
+        </g>
+        <rect x="1373" y="528.5" width="100" height="35" rx="5.25" ry="5.25" fill="none" stroke="#e8b339" stroke-width="2" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 546px; margin-left: 1374px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font id="svg-comp_CompCurrent" style="font-size: 22px">...
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text id="svg-comp_CompCurrent-2" x="1423" y="550" fill="#D2D2D2" font-family="Segoe UI" font-size="12px" text-anchor="middle">...
+            </text>
+            </switch>
+        </g>
+    </g>
+    <g id="click-Evaporator" class="hoverWrapper">
+        <rect x="635" y="531" width="210" height="210" rx="31.5" ry="31.5" fill="none" stroke="url(#radial)" stroke-width="10" pointer-events="all" opacity="0" class="svgGradient"/>
+        <path d="M 674.9 601 L 792.15 601 Q 802.15 601 806.84 606 L 809.18 608.5 Q 811.53 611 811.53 616 L 811.53 618.5 Q 811.53 621 806.84 626 L 804.49 628.5 Q 802.15 631 792.15 631 L 694.9 631 Q 684.9 631 684.9 636 L 684.9 638.5 Q 684.9 641 694.9 641 L 792.53 641 Q 802.53 641 807.03 646 L 809.28 648.5 Q 811.53 651 811.53 656 L 811.53 658.5 Q 811.53 661 807.03 666 L 804.78 668.5 Q 802.53 671 792.53 671 L 694.9 671 Q 684.9 671 680.02 671 L 675.15 671" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 674.84 661 L 791.53 661 Q 801.53 661 801.53 656 L 801.53 653.5 Q 801.53 651 791.53 651 L 694.59 651 Q 684.59 651 679.59 646 L 677.09 643.5 Q 674.59 641 674.59 636 L 674.59 633.5 Q 674.59 631 679.59 626 L 682.09 623.5 Q 684.59 621 694.59 621 L 791.84 621 Q 801.84 621 801.84 616 L 801.84 613.5 Q 801.84 611 791.84 611 L 674.59 611" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 684.59 611 L 684.59 601" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 694.59 631 L 694.59 621" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 694.59 651 L 694.59 641" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 681.84 671 L 681.84 661" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 791.53 611 L 791.53 601" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 791.53 631 L 791.53 621" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 791.53 651 L 791.53 641" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 791.53 671 L 791.53 661" fill="none" stroke="#D2D2D2" stroke-width="4" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="651.53" y="591" width="176.94" height="90" rx="42.3" ry="42.3" fill="none" stroke="#D2D2D2" stroke-width="4" pointer-events="none"/>
+        <rect x="640" y="536" width="200" height="200" rx="30" ry="30" fill="none" stroke="#D2D2D2" stroke-width="4" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 178px; height: 1px; padding-top: 766px; margin-left: 651px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <b style="font-size: 24px">Evaporator
+            </b>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="740" y="770" fill="#D2D2D2" font-family="Segoe UI" font-size="12px" text-anchor="middle">Evaporator
+            </text>
+            </switch>
+        </g>
+    </g>
+    <g id="click-evap_SatRfgtTemp" class="hoverWrapper">
+        <rect x="337" y="659" width="285" height="39" rx="5.85" ry="5.85" fill="none" stroke="url(#radial)" stroke-width="4" pointer-events="all" opacity="0" class="svgGradient"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 679px; margin-left: 342px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <span style="text-align: center">
+            <font style="font-size: 22px">SatRfgtTemp:
+            </font>
+            </span>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="342" y="682" fill="#D2D2D2" font-family="Segoe UI" font-size="12px">SatRfgtTemp:
+            </text>
+            </switch>
+        </g>
+        <rect x="520" y="661" width="100" height="35" rx="5.25" ry="5.25" fill="none" stroke="#e8b339" stroke-width="2" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 679px; margin-left: 521px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font id="svg-evap_SatRfgtTemp" style="font-size: 22px">...
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text id="svg-evap_SatRfgtTemp-2" x="570" y="682" fill="#D2D2D2" font-family="Segoe UI" font-size="12px" text-anchor="middle">...
+            </text>
+            </switch>
+        </g>
+    </g>
+    <g id="click-evap_RfgtPoolTemp" class="hoverWrapper">
+        <rect x="337" y="704" width="285" height="39" rx="5.85" ry="5.85" fill="none" stroke="url(#radial)" stroke-width="4" pointer-events="all" opacity="0" class="svgGradient"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 724px; margin-left: 342px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <span style="text-align: center">
+            <font style="font-size: 22px">RfgtPoolTemp:
+            </font>
+            </span>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="342" y="727" fill="#D2D2D2" font-family="Segoe UI" font-size="12px">RfgtPoolTemp:
+            </text>
+            </switch>
+        </g>
+        <rect x="520" y="706" width="100" height="35" rx="5.25" ry="5.25" fill="none" stroke="#e8b339" stroke-width="2" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 724px; margin-left: 521px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font id="svg-evap_RfgtPoolTemp" style="font-size: 22px">...
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text id="svg-evap_RfgtPoolTemp-2" x="570" y="727" fill="#D2D2D2" font-family="Segoe UI" font-size="12px" text-anchor="middle">...
+            </text>
+            </switch>
+        </g>
+    </g>
+    <g id="click-evap_RfgtPress" class="hoverWrapper">
+        <rect x="337" y="749" width="285" height="39" rx="5.85" ry="5.85" fill="none" stroke="url(#radial)" stroke-width="4" pointer-events="all" opacity="0" class="svgGradient"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 769px; margin-left: 342px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <span style="text-align: center">
+            <font style="font-size: 22px">RfgtPress:
+            </font>
+            </span>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="342" y="772" fill="#D2D2D2" font-family="Segoe UI" font-size="12px">RfgtPress:
+            </text>
+            </switch>
+        </g>
+        <rect x="520" y="751" width="100" height="35" rx="5.25" ry="5.25" fill="none" stroke="#e8b339" stroke-width="2" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 769px; margin-left: 521px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font id="svg-evap_RfgtPress" style="font-size: 22px">...
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text id="svg-evap_RfgtPress-2" x="570" y="772" fill="#D2D2D2" font-family="Segoe UI" font-size="12px" text-anchor="middle">...
+            </text>
+            </switch>
+        </g>
+    </g>
+    <g id="click-evap_ApprchTemp" class="hoverWrapper">
+        <rect x="337" y="794" width="285" height="39" rx="5.85" ry="5.85" fill="none" stroke="url(#radial)" stroke-width="4" pointer-events="all" opacity="0" class="svgGradient"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 814px; margin-left: 342px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font style="font-size: 22px">ApprchTemp:
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="342" y="817" fill="#D2D2D2" font-family="Segoe UI" font-size="12px">ApprchTemp:
+            </text>
+            </switch>
+        </g>
+        <rect x="520" y="796" width="100" height="35" rx="5.25" ry="5.25" fill="none" stroke="#e8b339" stroke-width="2" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 814px; margin-left: 521px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font id="svg-evap_ApprchTemp" style="font-size: 22px">...
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text id="svg-evap_ApprchTemp-2" x="570" y="817" fill="#D2D2D2" font-family="Segoe UI" font-size="12px" text-anchor="middle">...
+            </text>
+            </switch>
+        </g>
+    </g>
+    <g id="click-evap_OutdoorAirTemp" class="hoverWrapper">
+        <rect x="860" y="794" width="285" height="39" rx="5.85" ry="5.85" fill="none" stroke="url(#radial)" stroke-width="4" pointer-events="all" opacity="0" class="svgGradient"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 814px; margin-left: 865px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <span style="text-align: center">
+            <font style="font-size: 22px">OutdoorAirTemp:
+            </font>
+            </span>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="865" y="817" fill="#D2D2D2" font-family="Segoe UI" font-size="12px">OutdoorAirTemp:
+            </text>
+            </switch>
+        </g>
+        <rect x="1043" y="796" width="100" height="35" rx="5.25" ry="5.25" fill="none" stroke="#e8b339" stroke-width="2" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 814px; margin-left: 1044px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font id="svg-evap_OutdoorAirTemp" style="font-size: 22px">...
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text id="svg-evap_OutdoorAirTemp-2" x="1093" y="817" fill="#D2D2D2" font-family="Segoe UI" font-size="12px" text-anchor="middle">...
+            </text>
+            </switch>
+        </g>
+    </g>
+    <g id="click-evap_EntWtrTemp" class="hoverWrapper">
+        <rect x="860" y="659" width="285" height="39" rx="5.85" ry="5.85" fill="none" stroke="url(#radial)" stroke-width="4" pointer-events="all" opacity="0" class="svgGradient"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 679px; margin-left: 865px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <span style="text-align: center">
+            <font style="font-size: 22px">EntWtrTemp:
+            </font>
+            </span>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="865" y="682" fill="#D2D2D2" font-family="Segoe UI" font-size="12px">EntWtrTemp:
+            </text>
+            </switch>
+        </g>
+        <rect x="1043" y="661" width="100" height="35" rx="5.25" ry="5.25" fill="none" stroke="#e8b339" stroke-width="2" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 679px; margin-left: 1044px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font id="svg-evap_EntWtrTemp" style="font-size: 22px">...
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text id="svg-evap_EntWtrTemp-2" x="1093" y="682" fill="#D2D2D2" font-family="Segoe UI" font-size="12px" text-anchor="middle">...
+            </text>
+            </switch>
+        </g>
+    </g>
+    <g id="click-evap_LvgWtrTemp" class="hoverWrapper">
+        <rect x="860" y="704" width="285" height="39" rx="5.85" ry="5.85" fill="none" stroke="url(#radial)" stroke-width="4" pointer-events="all" opacity="0" class="svgGradient"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 724px; margin-left: 865px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <span style="font-size: 22px ; text-align: center">LvgWtrTemp:
+            </span>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="865" y="727" fill="#D2D2D2" font-family="Segoe UI" font-size="12px">LvgWtrTemp:
+            </text>
+            </switch>
+        </g>
+        <rect x="1043" y="706" width="100" height="35" rx="5.25" ry="5.25" fill="none" stroke="#e8b339" stroke-width="2" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 724px; margin-left: 1044px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font id="svg-evap_LvgWtrTemp" style="font-size: 22px">...
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text id="svg-evap_LvgWtrTemp-2" x="1093" y="727" fill="#D2D2D2" font-family="Segoe UI" font-size="12px" text-anchor="middle">...
+            </text>
+            </switch>
+        </g>
+    </g>
+    <g id="click-evap_WtrFlowEsti" class="hoverWrapper">
+        <rect x="860" y="749" width="285" height="39" rx="5.85" ry="5.85" fill="none" stroke="url(#radial)" stroke-width="4" pointer-events="all" opacity="0" class="svgGradient"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 769px; margin-left: 865px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <span style="font-size: 22px ; text-align: center">WtrFlowEsti:
+            </span>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text x="865" y="772" fill="#D2D2D2" font-family="Segoe UI" font-size="12px">WtrFlowEsti:
+            </text>
+            </switch>
+        </g>
+        <rect x="1043" y="751" width="100" height="35" rx="5.25" ry="5.25" fill="none" stroke="#e8b339" stroke-width="2" pointer-events="none" class="svgStroke"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+            <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 769px; margin-left: 1044px;">
+            <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <div style="display: inline-block; font-size: 12px; font-family: Segoe UI; color: #D2D2D2; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+            <font id="svg-evap_WtrFlowEsti" style="font-size: 22px">...
+            </font>
+            </div>
+            </div>
+            </div>
+            </foreignObject>
+            <text id="svg-evap_WtrFlowEsti-2" x="1093" y="772" fill="#D2D2D2" font-family="Segoe UI" font-size="12px" text-anchor="middle">...
+            </text>
+            </switch>
+        </g>
+    </g>
+</g>
+<switch>
+<g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+<a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+<text text-anchor="middle" font-size="10px" x="50%" y="100%">Viewer does not support full SVG 1.1
+</text>
+</a>
+</switch>
+</svg>

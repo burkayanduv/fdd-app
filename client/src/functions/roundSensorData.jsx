@@ -1,0 +1,55 @@
+export default function roundSensorData(data, decs) {
+  const mult = 10 ** decs;
+  const roundedData = data.map(
+    ({
+      comp_CompCurrent: compCompCurrentVal,
+      comp_DiffPress: compDiffPressVal,
+      comp_DischSupe: compDischSupeVal,
+      comp_DischTemp: compDischTempVal,
+      comp_MassFlow: compMassFlowVal,
+      comp_SuctPress: compSuctPressVal,
+      cond_SatRfgtTemp: condSatRfgtTempVal,
+      cond_DischSatTemp: condDischSatTempVal,
+      cond_DischSubc: condDischSubcVal,
+      cond_RfgtPress: condRfgtPressVal,
+      cond_DiffRfgtPress: condDiffRfgtPressVal,
+      cond_SubcLiqTemp: condSubcLiqTempVal,
+      cond_SubcLiqPress: condSubcLiqPressVal,
+      cond_FanDischTemp: condFanDischTempVal,
+      evap_SatRfgtTemp: evapSatRfgtTempVal,
+      evap_RfgtPoolTemp: evapRfgtPoolTempVal,
+      evap_RfgtPress: evapRfgtPressVal,
+      evap_ApprchTemp: evapApprchTempVal,
+      evap_EntWtrTemp: evapEntWtrTempVal,
+      evap_LvgWtrTemp: evapLvgWtrTempVal,
+      evap_WtrFlowEsti: evapWtrFlowEstiVal,
+      evap_OutdoorAirTemp: evapOutdoorAirTempVal,
+      ...rest
+    }) => ({
+      comp_CompCurrent: Math.round(compCompCurrentVal * mult) / mult,
+      comp_DiffPress: Math.round(compDiffPressVal * mult) / mult,
+      comp_DischSupe: Math.round(compDischSupeVal * mult) / mult,
+      comp_DischTemp: Math.round(compDischTempVal * mult) / mult,
+      comp_MassFlow: Math.round(compMassFlowVal * mult) / mult,
+      comp_SuctPress: Math.round(compSuctPressVal * mult) / mult,
+      cond_SatRfgtTemp: Math.round(condSatRfgtTempVal * mult) / mult,
+      cond_DischSatTemp: Math.round(condDischSatTempVal * mult) / mult,
+      cond_DischSubc: Math.round(condDischSubcVal * mult) / mult,
+      cond_RfgtPress: Math.round(condRfgtPressVal * mult) / mult,
+      cond_DiffRfgtPress: Math.round(condDiffRfgtPressVal * mult) / mult,
+      cond_SubcLiqTemp: Math.round(condSubcLiqTempVal * mult) / mult,
+      cond_SubcLiqPress: Math.round(condSubcLiqPressVal * mult) / mult,
+      cond_FanDischTemp: Math.round(condFanDischTempVal * mult) / mult,
+      evap_SatRfgtTemp: Math.round(evapSatRfgtTempVal * mult) / mult,
+      evap_RfgtPoolTemp: Math.round(evapRfgtPoolTempVal * mult) / mult,
+      evap_RfgtPress: Math.round(evapRfgtPressVal * mult) / mult,
+      evap_ApprchTemp: Math.round(evapApprchTempVal * mult) / mult,
+      evap_EntWtrTemp: Math.round(evapEntWtrTempVal * mult) / mult,
+      evap_LvgWtrTemp: Math.round(evapLvgWtrTempVal * mult) / mult,
+      evap_WtrFlowEsti: Math.round(evapWtrFlowEstiVal * mult) / mult,
+      evap_OutdoorAirTemp: Math.round(evapOutdoorAirTempVal * mult) / mult,
+      ...rest,
+    })
+  );
+  return roundedData;
+}
